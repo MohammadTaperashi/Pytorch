@@ -1,2 +1,2 @@
 # Pytorch
-All  of my projects that done by pytorch are stored here.
+All  of my projects that are done by Pytorch are stored here.
